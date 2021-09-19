@@ -4,7 +4,7 @@ Scripts for The Perfect Tower 2
 Almost all of these scripts require 1920 x 1080 resolution with Dynamic UI Scaling turned on.
 
 Auto_Mine
-Set up required: Allocate perks for mining. Go to second floor of mine(you don't have to stay there just can't leave on lower floor), Have 10 asteroids, have infinity stone perk window open within the stone page. Change variable: Delete_Cycle_Count to desired number of cycles through the script between deleting the first asteroid(default is 3) faster pp boost will warrent lowering it while slower scan speed or pp boost will make you want to raise it. Check quick scan. 
+Set up required: Allocate perks for mining. Have a worker on each asteroid slot. Go to second floor of mine(you don't have to stay there just can't leave on lower floor), Have 10 asteroids, have infinity stone perk window open within the stone page. Change variable: Delete_Cycle_Count to desired number of cycles through the script between deleting the first asteroid(default is 3) faster pp boost will warrent lowering it while slower scan speed or pp boost will make you want to raise it. Check quick scan. 
 
 Description: Opens up the mine page which activates Auto_Mine_Layers and Drill scripts, activates Asteroid_Rewards, deletes first asteroid slot (if number of cycles before deletion have passed), starts scanning new asteriod (if number of cycles before deletion have passed), waits for drill to finish then leaves the mine to go to the infinity stone page where it activates the earth stone and then it repeats. Turn off by pressing 9 to activate the off script. 
 
