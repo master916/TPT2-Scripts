@@ -91,7 +91,7 @@ Impulse: 9
 
 Auto_Asteroid_Farming
 
-Description: Farms asteroids with a simple timer to change timing change variable Delete_Cycle_Timer (default 60 here) to disred time between deleting an asteroid and scaning a new one. 
+Description: Farms asteroids with a simple timer to change timing change variable Delete_Cycle_Timer (default 60 here) to disired time between deleting an asteroid and scaning a new one. 
 
 Impulse: M
 
