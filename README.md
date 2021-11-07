@@ -93,7 +93,9 @@ Description: Clicks between essence purchase button and enemies destroyed botton
 
 **tower upgrades**
 
-Description: Clicks all disables aside from electric from bottom to top, and upgrades damage and health shields 13 times at 25x each. Requires 1920x1080
+Description: Clicks all disables aside from electric from bottom to top, and upgrades damage and health shields 13 times at 25x each. 
+
+Requires: 1920x1080 and 0xp disable costs
 
 **Impulse: New  Round**
 
