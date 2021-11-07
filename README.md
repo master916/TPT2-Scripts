@@ -5,7 +5,8 @@ Almost all of these scripts require 1920 x 1080 resolution with Dynamic UI Scali
 
 
 **Auto_Mine**
-Set up required: Allocate perks for mining. Go to second floor of mine(you don't have to stay there just can't leave on lower floor), have infinity stone perk window open within the stone page. 
+
+**Set up required**: Allocate perks for mining. Go to second floor of mine(you don't have to stay there just can't leave on lower floor), have infinity stone perk window open within the stone page. 
 
 Description: Opens up the mine page which activates Auto_Mine_Layers and Drill scripts, waits for drill to finish then leaves the mine to go to the infinity stone page where it activates the earth stone and then it repeats. Turn off by pressing 9 to activate the off script. 
 
